@@ -10,7 +10,7 @@ public class CSManagementSystemApplication {
 
         SpringApplication.run(CSManagementSystemApplication.class, args);
 
-        System.out.println("Hello Cheikh 29000");
+        System.out.println("Hello Cheikh 48000");
     }
 
 }
